@@ -1,4 +1,4 @@
-# Python - Data Structures: Lists, Tuples
+# Python - Data Structures: Lists and Tuples
 
 In this project, I learned about how sequence data types work in
 Python - specifically, lists and tuples.
